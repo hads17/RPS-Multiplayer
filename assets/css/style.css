@@ -1,0 +1,53 @@
+body {
+    background-color: #1000c9;
+}
+
+.container {
+    height: 100vh;
+}
+
+#chat-area {
+    height: 100vh;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#text-box {
+    background: white;
+    height: 97vh;
+    border: 2px #97a8df solid;
+    box-shadow: -2px 0px 25px -2px #416eff inset;
+}
+
+#header {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    border: 2px #97a8df solid;
+    box-shadow: -2px 0px 25px -2px #416eff inset;
+    border-radius: 10px;
+}
+
+.margin-0 {
+    margin: 0;
+    padding: 0;
+}
+
+.aside {
+    width: 20%;
+}
+
+
+#userInput {
+    width: 80%;
+    margin: 0px;
+    border: 2px #97a8df solid;
+    border-radius: 10px; 
+}
+#sendBtn {
+    width: 19%;
+    margin: 0px;
+    border: 2px #97a8df solid;
+    border-radius: 10px; 
+}
